@@ -1,0 +1,6 @@
+{
+  "name": "Query Params to JSONjhgkjhgjhkgj",
+  "description": "Converts query parameters to a JSON body and makes a POST request to a given URL",
+  "memory": 128,
+  "timeout": 30
+}
